@@ -7,7 +7,9 @@
 ---
 
 ### Back-End
+* [Answering the million dollar question: Why Node.js?](https://engineering.fastfox.com/answering-the-million-dollar-question-why-node-js-b417fab93d8e)
 * [How I replicated an $86 million project in 57 lines of code](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
+* [Reverse shell on a Node.js application](https://wiremask.eu/writeups/reverse-shell-on-a-nodejs-application/)
 
 ---
 
