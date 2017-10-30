@@ -2,6 +2,7 @@
 
 ### Front-End
 * [A Guide For Building A React Redux CRUD App](https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f)
+* [Modern Era Frontend Hacking Cheatsheets](https://medium.com/@wesharehoodies/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 * [Using Mocha JS, Chai JS and Sinon JS to Test your Frontend JavaScript Code](https://blog.codeship.com/mocha-js-chai-sinon-frontend-javascript-code-testing-tutorial/)
 
 ---
